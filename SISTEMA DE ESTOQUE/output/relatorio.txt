@@ -1,0 +1,8 @@
+Relatorio de Estoque
+Produto: TESTE
+Quantidade: 5
+Custo: R$ 256
+Preço Sugerido: R$ 307.2
+Data de Validade: 20/5
+Fornecedor: ETS
+--------------------------
