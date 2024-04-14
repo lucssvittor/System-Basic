@@ -1,4 +1,4 @@
-<div aligner="center">
+<div align="center">
 <h1>Não estava fazendo nada então veio essa ideia.</h1>
 
 Sistema de Gerenciamento de Estoque v1.0 é uma aplicação em C++ desenvolvida para facilitar o controle e a organização de produtos em estoque. 
